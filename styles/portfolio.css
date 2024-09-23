@@ -156,19 +156,7 @@ gap:24px
     font-size: 30px;
     font-weight: 700;
 }
-.resume-container{
+.resume-continer{
     display: flex;
-    gap:50px;
-
-}
-.resume-item-descreption{
-    color: #757575;
-}
-.resume-item-institute{
-    color: #757575;
-}
-.resume-item-title{
-    color: #474747;
-    font-size: 25px;
-    font-weight: 700;
+    gap: 50px;
 }
